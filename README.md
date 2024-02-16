@@ -1,10 +1,10 @@
 # NBA Champions Analysis DataStory
 
-**Analysis Report:** [NBA Champions DataStory](https://sites.google.com/view/daniel-jimenez-infovis-final/datastory?authuser=0) \n
-**Python Code (Data Collection and Cleaning):** \n
+**Analysis Report:** [NBA Champions DataStory](https://sites.google.com/view/daniel-jimenez-infovis-final/datastory?authuser=0) \
+**Python Code (Data Collection and Cleaning):** \
 - [Data Collection and Cleaning part 1]()
 - [Data Collection and Cleaning part 2]()
-**Final Excel Dataset:** [finalData.xlsx]() \n
+**Final Excel Dataset:** [finalData.xlsx]() \
 **Tableau Workbook:** [final_InfoVis.twbx]()
 
 ### Description
